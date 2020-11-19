@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/GunMoe/xlsx-db/issues"
   },
-  "homepage": "https://github.com/GunMoe/xlsx-db#readme"
+  "homepage": "https://github.com/GunMoe/xlsx-db#readme",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "oracledb": "^5.0.0",
+    "xlsx": "^0.16.8"
+  }
 }
