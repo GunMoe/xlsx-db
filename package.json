@@ -1,0 +1,19 @@
+{
+  "name": "xlsx-db",
+  "version": "1.0.0",
+  "description": "nodejs xlsx to database",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GunMoe/xlsx-db.git"
+  },
+  "author": "yuqian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GunMoe/xlsx-db/issues"
+  },
+  "homepage": "https://github.com/GunMoe/xlsx-db#readme"
+}
